@@ -8,7 +8,8 @@ This repository contains SAPRC gas phase mechanism converted to F0AM (Framework 
 
 ## Organization of the repository
 
- * [python_scripts](python_scripts): Contains the python functions that are used to create the SAPCR mechanism files in F0AM format. * [SAPRC_mechanism](SAPRC_mechanism): Contains SAPRC mechanism in F0AM format and photolysis calculation MATLAB function files.
+ * [python_scripts](python_scripts): Contains the python functions that are used to create the SAPCR mechanism files in F0AM format. 
+ * [SAPRC_mechanism](SAPRC_mechanism): Contains SAPRC mechanism in F0AM format and photolysis calculation MATLAB function files.
  * [Simulation_files](Simulation_files): Lagrangin plume simualtions.
 
 ## Contact
