@@ -4,7 +4,7 @@ This repository contains SAPRC gas phase mechanism converted to F0AM (Framework 
 
 
 ### Citation
-* An Update and Evaluation of SAPRC Gas-Phase Mechanism for Phenolic Compounds using Chamber Data and Biomass Burning Plume Simulations, Ge (In preperation). We ask that if you use the python programs to run simulation in F0AM, you cite this paper.
+* An Update and Evaluation of SAPRC Gas-Phase Mechanism for Phenolic Compounds using Chamber Data and Biomass Burning Plume Simulations, (In preperation). We ask that if you use the python programs to run simulation in F0AM, you cite this paper.
 
 ## Organization of the repository
 
